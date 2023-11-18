@@ -4,6 +4,8 @@
 
 This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of GPT models. CGW embodies empathy and creativity, guiding users through the process of configuring their own GPTs for specific tasks and interests.
 
+## https://chat.openai.com/g/g-DrpPDbvY6-custom-gpt-wizard
+
 ## About CGW
 
 Custom GPT Wizard (CGW) is a specialized GPT model, developed to provide constructive guidance in building custom GPTs. It focuses on helping users to articulate their objectives, optimize their models, and navigate the complexities of AI customization with ease and empathy.
