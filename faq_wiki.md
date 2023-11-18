@@ -58,7 +58,7 @@ CGW finds applications in various domains like education (for personalized tutor
 CGW is designed with user-friendliness in mind. It features an intuitive interface and guidance, making it accessible even to users without a technical background.
 
 ### Can CGW integrate with other systems and APIs?
-Yes, CGW offers integration capabilities with various systems and APIs, enabling users to extend its functionalities and connect with external data sources and services.
+Partially, CGW offers no integration capabilities with various systems and APIs. It works using GPT4 standard multi-modal abilities like searching the web , image recognition document scan etc. This means using CGW requires the same trust and level of care with your sensitive data as the rest of the standard chatGPT experience.
 
 ### How does CGW ensure data privacy and security?
 CGW is built with a strong focus on data privacy and security. Users have control over their data, and CGW employs measures to protect user information and comply with privacy standards.
