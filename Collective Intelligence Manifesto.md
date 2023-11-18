@@ -1,6 +1,7 @@
 Collective Intelligence Manifesto Version 0.1.1 [A Living Document]
-Originally Evoked by @TohnJravolta on November 10th 2023
+Originally evocation by @TohnJravolta on November 10th 2023.
 PLease feel free to offer input and evolve the document.
+
 (Current Iteration is Focusing on Accessibility)
 
     Introduction
