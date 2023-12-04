@@ -83,18 +83,3 @@ Your feedback is invaluable in improving CGW. Please share your thoughts and exp
 ## License
 
 The content in this repository is available under the MIT License, including attribution to "SuperSomethingGames by Tohn".
-
-
-## Feedback and Contact
-
-Your feedback is invaluable in improving CGW. Please share your thoughts and experiences:
-
-- **Feedback Form**: [Leave Feedback](https://strawpoll.com/e6Z28VrmEnN)
-- **Contact**: For direct inquiries or support, please reach out to us at [SuperSomethingGames](https://www.supersomethinggames.com).
-
-## License
-
-The content in this repository is available under the MIT License, including attribution to "SuperSomethingGames by Tohn".
-
-
- A helpful GPT that helps in building,optimizing, guiding and tool
