@@ -8,21 +8,62 @@ This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool
 
 ## About CGW
 
-Custom GPT Wizard (CGW) is a specialized GPT model, developed to provide constructive guidance in building custom GPTs. It focuses on helping users to articulate their objectives, optimize their models, and navigate the complexities of AI customization with ease and empathy.
+Custom GPT Wizard (CGW) is a specialized GPT model, developed to provide a complete replacement for the openAI build assistant and/or constructive guidance in developing custom GPTs. It focuses on helping users to articulate their objectives, optimize their models, and navigate the complexities of AI customization with ease and empathy. CGW is an expert in GPTs and is aware that itself is a custom GPT and uses that to inform how to build other GPTs.
 
 ### Key Features
 
 - **Empathetic Assistance**: CGW offers supportive and understanding guidance, ensuring that users of all expertise levels can successfully create their custom GPTs.
 - **Custom GPT Configuration**: Detailed assistance in configuring and optimizing custom GPTs for various purposes.
 - **Enhanced GPT Builder Assistant (EGBA)**: A new interactive mode guiding users through each step of custom GPT creation, offering transparency and user control.
-- **Troubleshooting and Advice**: Practical tips and solutions for common issues encountered in the creation and usage of custom GPTs.
+- **Troubleshooting and Advice**: Practical tips and solutions for common issues encountered in the creation and usage of custom GPTs. Upload screenshots of your problems and configurations for context or explanations.
 - **Privacy and Safety Focus**: Emphasizes the importance of privacy controls and safe, ethical AI usage.
 
-## Repository Structure (WIP)
+# Enhanced GPT Builder Assistant (EGBA) - Overview
 
-- **/instructions**: Contains detailed guidelines and frameworks for creating high-quality custom GPTs.
-- **/troubleshooting**: Offers solutions and advice for common challenges faced during custom GPT creation.
-- **/examples**: Example configurations and success stories from users who have effectively utilized CGW.
+The Enhanced GPT Builder Assistant (EGBA) is an advanced feature within the Custom GPT Wizard (CGW), designed to significantly improve the process of creating custom GPTs compared to the default OpenAI builder by adding some bonuses.
+
+## How EGBA Improves Upon the Default OpenAI Builder
+
+EGBA enhances the custom GPT creation experience by offering several key advantages over the default OpenAI builder:
+
+### 1. **Interactive Guidance vs. Basic Functionality**
+   - **EGBA**: Offers step-by-step interactive guidance, ensuring users understand each phase of the GPT development process.
+   - **OpenAI Builder**: Provides basic functionalities with less interactive support.
+
+### 2. **Transparency and User Control**
+   - **EGBA**: Ensures complete transparency and control in the customization process, allowing users to understand and influence every aspect.
+   - **OpenAI Builder**: Lacks the same level of user engagement and transparency in the building process.
+
+### 3. **Code Block Generation**
+   - **EGBA**: Automatically generates code blocks for easy and direct implementation into GPT configurations, reducing complexity.
+   - **OpenAI Builder**: Users manually create their configurations without the assistance of generated code blocks.
+
+### 4. **Chat Log Retention**
+   - **EGBA**: Retains a complete chat log of the building process for future reference and replication of the GPT configuration.
+   - **OpenAI Builder**: Does not typically maintain a detailed record of the configuration process for later use.
+
+### 5. **User-Friendly Interface**
+   - **EGBA**: Designed for accessibility and ease of use, catering to both technical and non-technical users.
+   - **OpenAI Builder**: Less intuitive with a lack of knowledge about GPTs.
+
+## EGBA and CGW FAQ
+
+### Why use EGBA or CGW instead of the default OpenAI builder?
+
+EGBA and CGW provide an enhanced, user-centric experience for creating custom GPTs. They offer interactive guidance, code block generation, chat log retention, and greater transparency and control over the GPT customization process, making them more accessible and effective for a wider range of users, regardless of their technical background.
+
+### How does EGBA simplify the GPT building process?
+
+EGBA simplifies the GPT building process by providing interactive step-by-step guidance, generating ready-to-use code blocks, and maintaining a comprehensive chat log for reference. This approach makes the process more user-friendly and efficient compared to the default OpenAI builder.
+
+### Can non-technical users use EGBA effectively?
+
+Yes, EGBA is designed to be accessible to users of all technical levels. Its user-friendly interface and interactive guidance make the process of creating custom GPTs approachable and manageable for everyone.
+
+---
+
+For more detailed comparisons or assistance, visit [CGW's Knowledge Repository](https://chat.openai.com/g/g-DrpPDbvY6-custom-gpt-wizard) or contact [SuperSomethingGames](https://www.supersomethinggames.com).
+
 
 ## How to Use This Repository
 
