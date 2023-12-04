@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of GPT models. CGW embodies empathy and creativity, guiding users through the process of configuring their own GPTs for specific tasks and interests.
+This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of GPT models. CGW now includes the Enhanced GPT Builder Assistant (EGBA) mode, further empowering users with an interactive, step-by-step custom GPT creation process.
 
 ## [Try CGW Here](https://chat.openai.com/g/g-DrpPDbvY6-custom-gpt-wizard)
 
@@ -14,6 +14,7 @@ Custom GPT Wizard (CGW) is a specialized GPT model, developed to provide constru
 
 - **Empathetic Assistance**: CGW offers supportive and understanding guidance, ensuring that users of all expertise levels can successfully create their custom GPTs.
 - **Custom GPT Configuration**: Detailed assistance in configuring and optimizing custom GPTs for various purposes.
+- **Enhanced GPT Builder Assistant (EGBA)**: A new interactive mode guiding users through each step of custom GPT creation, offering transparency and user control.
 - **Troubleshooting and Advice**: Practical tips and solutions for common issues encountered in the creation and usage of custom GPTs.
 - **Privacy and Safety Focus**: Emphasizes the importance of privacy controls and safe, ethical AI usage.
 
@@ -36,6 +37,7 @@ We welcome contributions from the community. Please follow these steps to contri
 1. **Fork the Repository**: Create your own copy of the repository to start making changes.
 2. **Make Changes**: Add or modify content based on your experiences and expertise with CGW.
 3. **Submit a Pull Request**: Once you've made your changes, submit a pull request for review.
+
 
 
 ## Use-cases with examples: 
@@ -62,6 +64,25 @@ We welcome contributions from the community. Please follow these steps to contri
 | 19  | Accessibility Enhancements                | "How can I make my GPT more accessible to users with disabilities?" | Suggests modifications to improve accessibility for a diverse range of users.                            | Increases the GPT's inclusivity and accessibility, ensuring it can be used by a wider audience.                             |
 | 20  | Continuous GPT Evolution                  | "What are the best practices for evolving my GPT over time?" | Advises on strategies for ongoing development and adaptation of the GPT to changing needs and technology. | Ensures the GPT remains cutting-edge and relevant, adapting to new challenges and opportunities.                            |
 
+## CGW Slash Commands
+- **/EGBA**: Activates Enhanced GPT Builder Assistant mode for interactive GPT building.
+- **/BUILD**: Initiates a session for constructing a new custom GPT.
+- **/CGPT**: Command to start creating a Custom GPT.
+- **/CUSTOMGPT**: Engages the process for creating a tailor-made GPT.
+- **/MAKE**: Shortcut to begin the custom GPT creation process. ex: "/make a retro virtual PC GPT" or "/make me a custom resume builder" 
+- **/HELP**: Provides assistance or guidance on using CGW.
+- **/TROUBLESHOOT**: Accesses the troubleshooting guide for common issues.
+
+## Feedback and Contact
+
+Your feedback is invaluable in improving CGW. Please share your thoughts and experiences:
+
+- **Feedback Form**: [Leave Feedback](https://strawpoll.com/e6Z28VrmEnN)
+- **Contact**: For direct inquiries or support, please reach out to us at [SuperSomethingGames](https://www.supersomethinggames.com).
+
+## License
+
+The content in this repository is available under the MIT License, including attribution to "SuperSomethingGames by Tohn".
 
 
 ## Feedback and Contact
