@@ -50,7 +50,7 @@ EGBA enhances the custom GPT creation experience by offering several key advanta
 
 ### Why use EGBA or CGW instead of the default OpenAI builder?
 
-EGBA and CGW provide an enhanced, user-centric experience for creating custom GPTs. They offer interactive guidance, code block generation, chat log retention, and greater transparency and control over the GPT customization process, making them more accessible and effective for a wider range of users, regardless of their technical background.
+EGBA and CGW provide an enhanced, user-centric experience for creating custom GPTs. They offer interactive guidance, code block generation, chat log retention, and greater transparency and control over the GPT customization process, making them more accessible and effective for a wider range of users, regardless of their technical background. Skipping the default assistant makes cloning and iterating on a GPT easier and more repeatable.
 
 ### How does EGBA simplify the GPT building process?
 
