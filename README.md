@@ -124,3 +124,7 @@ Your feedback is invaluable in improving CGW. Please share your thoughts and exp
 ## License
 
 The content in this repository is available under the MIT License, including attribution to "SuperSomethingGames by Tohn".
+
+### Extra:
+Here is a devlog on a large part of the process of having GPT iterate on its own instructions for developing the new "EGBA" feature that replaces the stock build assistant:
+https://github.com/TohnJravolta/Explore/blob/main/CGW_Self_Improvement.ipynb

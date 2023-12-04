@@ -2,7 +2,7 @@
 
 ## Version 1.1.42 December 3, 2023
 
-A project notebook on a large part of the process of having GPT iterate on its own instructions for developing the new "EGBA" feature that replaces the stock build assistant:
+A devlog on a large part of the process of having GPT iterate on its own instructions for developing the new "EGBA" feature that replaces the stock build assistant:
 https://github.com/TohnJravolta/Explore/blob/main/CGW_Self_Improvement.ipynb
 
 ### Added
