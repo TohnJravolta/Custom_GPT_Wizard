@@ -1,6 +1,6 @@
 # Custom GPT Wizard (CGW) - Knowledge Repository Changelog
 
-## Version [Next Version Number]
+## Version 1.1.42 December 3, 2023
 
 ### Added
 

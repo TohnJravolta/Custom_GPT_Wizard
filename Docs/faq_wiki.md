@@ -1,6 +1,6 @@
 # Custom GPT Wizard (CGW) Wiki - A Collective Intelligence Documentation
 
-Curated by Tohn and CGW's Governance
+Invoked by Tohn with CGW's Governance
 
 ## Table of Contents
 1. [Introduction](#introduction)
