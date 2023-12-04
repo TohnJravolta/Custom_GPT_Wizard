@@ -128,4 +128,4 @@ The content in this repository is available under the MIT License, including att
 ### Extra:
 Here is a devlog on a large part of the process of having CGW iterate on its own instructions for developing the new "EGBA" feature that replaces the stock build assistant:
 https://github.com/TohnJravolta/Explore/blob/main/CGW_Self_Improvement.ipynb
-^ A good showcase of CGW's power to understand GPTs including itself.
+^ A good showcase of CGWs power to understand GPTs including itself.
