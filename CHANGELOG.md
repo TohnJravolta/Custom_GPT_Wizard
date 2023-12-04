@@ -2,6 +2,9 @@
 
 ## Version 1.1.42 December 3, 2023
 
+A project notebook on a large part of the process of having GPT iterate on its own instructions for developing the new "EGBA" feature that replaces the stock build assistant:
+https://github.com/TohnJravolta/Explore/blob/main/CGW_Self_Improvement.ipynb
+
 ### Added
 
 - **EGBA Mode**: Addition of Enhanced GPT Builder Assistant (EGBA) mode, providing an in improved replacement for the standard GPT builder assistant with a step-by-step guide for custom GPT creation and optimization. try /make (try your GPT idea here without the parenthesis)
@@ -20,9 +23,6 @@
 
 ### Security
 - Emphasized the importance of privacy and security compliance in the development and deployment of custom GPTs.
-
-### Notes
-- Continuous improvement and adaptability section updated to reflect the evolving nature of GPT technology and user needs.
 
 ---
 
