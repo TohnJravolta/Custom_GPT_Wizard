@@ -1,0 +1,40 @@
+
+CGW intial Self_Improvement case study on using CGW write its own feature and instructions:   
+https://github.com/TohnJravolta/Explore/blob/main/CGW_Self_Improvement.ipynb
+
+NOTES: N/A
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
+CGW setting intial GITHUB community disscussion thread:
+https://chat.openai.com/share/4c417781-42fb-467f-8ad7-08acae3feff7
+
+NOTES: I add Pug'ns to the actual post :D
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
+CGW typo check with context sensitivity its own instructions:
+
+https://chat.openai.com/share/22f78b13-ef6f-4557-b26e-bd9d93eca1b1
+
+NOTES: Maybe next time ask it to check the instructions on it's own with out copy and pasting it into chat.
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
