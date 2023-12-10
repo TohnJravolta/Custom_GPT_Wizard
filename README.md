@@ -5,6 +5,7 @@
 This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of GPT models. CGW now includes the Enhanced GPT Builder Assistant (EGBA) mode, further empowering users with an interactive, step-by-step custom GPT creation process.
 
 ## [Try CGW Here](https://chat.openai.com/g/g-DrpPDbvY6-custom-gpt-wizard)
+![Feature Demo](examples/example.gif)
 
 ## About CGW
 
