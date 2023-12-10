@@ -7,6 +7,7 @@ This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool
 ## [Try CGW Here](https://chat.openai.com/g/g-DrpPDbvY6-custom-gpt-wizard)
 
 ![Feature Demo](Examples/example.gif)
+[^Click here to read this chat.](https://chat.openai.com/share/47f251b3-892a-4d25-aa8d-ff23bce5dc97)
 
 ## About CGW
 
