@@ -21,6 +21,7 @@ NOTES: Maybe next time ask it to check the instructions on it's own with out cop
 
 ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
 
+Later, find and add earlier logs for example, how GPT generated some of the earlier documentation.
 
 ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
 
