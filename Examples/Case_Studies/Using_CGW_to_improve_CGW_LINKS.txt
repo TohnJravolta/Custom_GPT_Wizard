@@ -1,5 +1,5 @@
 
-CGW intial Self_Improvement case study on using CGW write its own feature and instructions:   
+CGW intial Self_Improvement case study on using CGW write "understand" and fix its own instructions:   
 https://github.com/TohnJravolta/Explore/blob/main/CGW_Self_Improvement.ipynb
 
 NOTES: N/A
