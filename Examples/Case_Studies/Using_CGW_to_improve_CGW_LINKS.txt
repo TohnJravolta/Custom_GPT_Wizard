@@ -24,6 +24,12 @@ NOTES: Maybe next time ask it to check the instructions on it's own with out cop
 
 ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
 
+Having CGW write up its own changelog based on what has changed in its instruction set:
+
+https://chat.openai.com/share/d84aa8d6-9660-4da2-b7ab-84ed171dcd45
+
+---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
+
 Later, find and add earlier logs for example, how GPT generated some of the earlier documentation.
 
 ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------   ---------
