@@ -3,7 +3,7 @@
 ![GIF Logo](customGPT_LOGO_ANI.gif)
 
 ## Overview
-Learn more about CGW and what it can do in this video: https://youtu.be/OZNRW2Yki5g.
+**Learn more about CGW and what it can do in this video: https://youtu.be/OZNRW2Yki5g.**
 This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of chatGPT. 
 CGW now includes the Enhanced GPT Builder Assistant (EGBA) mode, further empowering users with an interactive, step-by-step custom GPT creation process.
 
