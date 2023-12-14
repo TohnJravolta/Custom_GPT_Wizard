@@ -111,7 +111,7 @@ We welcome contributions from the community. Please follow these steps to contri
 | 19  | Accessibility Enhancements                | "How can I make my GPT more accessible to users with disabilities?" | Suggests modifications to improve accessibility for a diverse range of users.                            | Increases the GPT's inclusivity and accessibility, ensuring it can be used by a wider audience.                             |
 | 20  | Continuous GPT Evolution                  | "What are the best practices for evolving my GPT over time?" | Advises on strategies for ongoing development and adaptation of the GPT to changing needs and technology. | Ensures the GPT remains cutting-edge and relevant, adapting to new challenges and opportunities.                            |
 
-## CGW Slash Commands
+## CGW Slash Commands (USE CAPS TO TRIGGER)
 - **/EGBA**: Activates Enhanced GPT Builder Assistant mode for interactive GPT building.
 - **/BUILD**: Initiates a session for constructing a new custom GPT.
 - **/CGPT**: Command to start creating a Custom GPT.
