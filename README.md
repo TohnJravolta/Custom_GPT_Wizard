@@ -1,5 +1,5 @@
 # Custom GPT Wizard (CGW) - Knowledge Repository 🧙
-## This GPT is updated regularly and ls affectionately cared for ❤️
+## This GPT is updated regularly ❤️
 ⭐ < Star, fork or follow for updates 
 
 ![GIF Logo](customGPT_LOGO_ANI.gif)
