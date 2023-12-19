@@ -16,7 +16,7 @@ CGW now includes the Enhanced GPT Builder Assistant (EGBA) mode, further empower
 
 ## About CGW
 
-Custom GPT Wizard (CGW) is a specialized GPT model, developed to provide a complete replacement for the openAI build assistant and provide constructive guidance in developing custom GPTs. It focuses on helping users to articulate their objectives, optimize their models, and navigate the complexities of AI customization with ease and empathy. CGW is an expert in GPTs and has been taught that CGW it self is a custom GPT and uses that to help inform how to build other GPTs.
+Custom GPT Wizard (CGW) is a specialized custom chatGPT model, developed to provide a complete replacement for the openAI build assistant and provide constructive guidance in developing custom GPTs. It focuses on helping users to articulate their objectives, optimize their models, and navigate the complexities of AI customization with ease and empathy. CGW is an expert in GPTs and has been taught that CGW it self is a custom GPT and uses that to help inform how to build other GPTs.
 
 ### Key Features
 
