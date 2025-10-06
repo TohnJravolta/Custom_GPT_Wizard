@@ -6,24 +6,24 @@
 
 ## Overview
 **Learn more about CGW and what it can do in this video: https://youtu.be/OZNRW2Yki5g.**
-This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of chatGPT. 
-CGW now includes the Enhanced GPT Builder Assistant (EGBA) mode, further empowering users with an interactive, step-by-step custom GPT creation process.
+This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of ChatGPT using OpenAI's modern builder on [chatgpt.com](https://chatgpt.com/).
+CGW now includes the Enhanced GPT Builder Assistant (EGBA) mode, further empowering users with an interactive, step-by-step custom GPT creation process that mirrors the side-by-side preview interface introduced in 2024–2025.
 
-## [Try CGW Here](https://chat.openai.com/g/g-DrpPDbvY6-custom-gpt-wizard)
+## [Try CGW Here](https://chatgpt.com/g/g-DrpPDbvY6-custom-gpt-wizard)
 
 ![Feature Demo](Examples/example.gif)
 [^Click here to read this chat.](https://chat.openai.com/share/47f251b3-892a-4d25-aa8d-ff23bce5dc97)
 
 ## About CGW
 
-Custom GPT Wizard (CGW) is a specialized custom chatGPT model, developed to provide a complete replacement for the openAI build assistant and provide constructive guidance in developing custom GPTs. It focuses on helping users to articulate their objectives, optimize their models, and navigate the complexities of AI customization with ease and empathy. CGW is an expert in GPTs and has been taught that CGW it self is a custom GPT and uses that to help inform how to build other GPTs.
+Custom GPT Wizard (CGW) is a specialized custom ChatGPT model, developed to provide a complete replacement for the OpenAI build assistant and provide constructive guidance in developing custom GPTs. It focuses on helping users articulate their objectives, optimize their models, and navigate the complexities of AI customization with ease and empathy. CGW is an expert in GPTs and has been taught that CGW itself is a custom GPT and uses that to help inform how to build other GPTs.
 
 ### Key Features
 
 - **Empathetic Assistance**: CGW offers supportive and understanding guidance, ensuring that users of all expertise levels can successfully create their custom GPTs.
-- **Custom GPT Configuration**: Detailed assistance in configuring and optimizing custom GPTs for various purposes.
+- **Custom GPT Configuration**: Detailed assistance in configuring and optimizing custom GPTs for various purposes, including new builder capabilities such as Workspace roles, analytics, and iterative release notes.
 - **Enhanced GPT Builder Assistant (EGBA)**: A new interactive mode guiding users through each step of custom GPT creation, offering transparency and user control.
-- **Troubleshooting and Advice**: Practical tips and solutions for common issues encountered in the creation and usage of custom GPTs. Upload screenshots of your problems and configurations for context or explanations.
+- **Troubleshooting and Advice**: Practical tips and solutions for common issues encountered in the creation and usage of custom GPTs. Upload screenshots of your problems and configurations for context or explanations, and leverage the GPT analytics dashboard to validate improvements over time.
 - **Privacy and Safety Focus**: Emphasizes the importance of privacy controls and safe, ethical AI usage.
 
 # Enhanced GPT Builder Assistant (EGBA) - Overview
@@ -70,7 +70,7 @@ Yes, EGBA is designed to be accessible to users of all technical levels. Its use
 
 ---
 
-For more detailed comparisons or assistance, visit [CGW's Knowledge Repository](https://chat.openai.com/g/g-DrpPDbvY6-custom-gpt-wizard) or contact [SuperSomethingGames](https://www.supersomethinggames.com).
+For more detailed comparisons or assistance, visit [CGW's Knowledge Repository](https://chatgpt.com/g/g-DrpPDbvY6-custom-gpt-wizard) or contact [SuperSomethingGames](https://www.supersomethinggames.com).
 
 
 ## How to Use This Repository
@@ -78,6 +78,20 @@ For more detailed comparisons or assistance, visit [CGW's Knowledge Repository](
 1. **Exploring the Knowledge Base**: Browse through the different directories to find guidelines, troubleshooting advice, and examples of custom GPT configurations.
 2. **Contribution**: Users are encouraged to contribute their own insights, configurations, or solutions to enrich the CGW knowledge base.
 3. **Feedback**: Share your experiences and suggestions to improve CGW.
+
+## 2025 platform highlights for CGW users
+
+OpenAI has published a refreshed suite of help center and platform documentation that complements CGW's advice. Start with the updated [Official Custom GPT Documentation Index](Knowledge/Instructions/official_gpt_resources_2025.md) for quick links and context, then use the summaries below as a checklist when iterating on your builds:
+
+- **Create a GPT** – Walks through the latest builder UI, including the split preview pane, instruction layering, Knowledge uploads, conversation starters, and capability toggles for browsing, DALL·E 3, and code interpreter.
+- **Manage GPTs** – Details how to duplicate drafts, switch Workspace visibility (Just me, Workspace, Public), set default capabilities, and track version history.
+- **Custom GPT privacy controls** – Explains conversation retention defaults, the "Allow my GPT to be used for model improvement" toggle, and how Workspace admins can enforce data retention settings.
+- **GPT Store overview & builder profile** – Outlines publication requirements, quality review criteria, revenue share eligibility, and the builder profile verification process introduced alongside the Store redesign.
+- **GPT actions quickstart** – Covers the modern OpenAPI schema format, OAuth and API key authentication, test console improvements, and deployment safeguards before you publish Actions to Workspace members.
+- **GPT analytics dashboard** – Defines opens, conversions, saves, Workspace engagement, and retention metrics, allowing you to evidence CGW-led improvements.
+- **Workspace roles & compliance** – Highlights admin, builder, and analyst roles plus audit log access so larger teams can collaborate without compromising governance.
+
+Referencing these official docs alongside CGW ensures the wizard's recommendations stay aligned with the most recent changes on chatgpt.com, including GPT Store publishing rules, Workspace monetization, and builder profile verification steps.
 
 ## Contributing
 

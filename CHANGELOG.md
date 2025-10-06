@@ -1,5 +1,15 @@
 # Custom GPT Wizard (CGW) - Knowledge Repository Changelog
 
+## Unreleased (October 2025)
+
+### Added
+- **Official Custom GPT Documentation Index** summarizing the current OpenAI help center and platform references for building, managing, and publishing GPTs.
+- Wiki sections for detailed use cases, advanced prompting, governance best practices, and updated FAQs that reflect 2025 builder capabilities, Workspace roles, and GPT Store monetization guidance.
+
+### Changed
+- README and wiki updated with quick-start guidance that points to the refreshed official resources so CGW users stay aligned with the modern ChatGPT builder and GPT Store requirements.
+- README highlights 2025 platform considerations (analytics, Workspace governance, revenue share) and links to the chatgpt.com domain.
+- Documentation index now includes Workspace governance resources and an "emerging docs" watchlist to keep future updates on the radar.
 
 
 ## Version 0.0.42 December 14, 2023
