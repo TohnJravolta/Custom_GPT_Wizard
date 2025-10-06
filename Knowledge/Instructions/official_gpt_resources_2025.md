@@ -30,3 +30,9 @@ This index consolidates the most up-to-date official help center and platform do
 - **Workspace governance** – Articles covering Workspace roles, audit logs, and credential management continue to expand; monitor them to keep the compliance row above accurate.
 - **GPT Store monetization** – New guidance on regional availability, payout dashboards, and promotional programs is expected as the Store matures.
 - **Analytics exports** – Keep an eye out for documentation describing webhook or CSV exports so CGW workflows can incorporate automated reporting.
+
+### Merge hygiene checklist
+
+- Before opening a PR, diff this file against `origin/main` to confirm the table structure has not diverged (add/add conflicts are most common when both branches add a new row).
+- If the table order changes upstream, prefer reordering via separate commits so that content changes and structural changes stay easy to rebase.
+- Document any upstream removals in the changelog so downstream maintainers understand why a resource disappeared.

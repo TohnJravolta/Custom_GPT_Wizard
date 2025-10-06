@@ -81,6 +81,12 @@ For more detailed comparisons or assistance, visit [CGW's Knowledge Repository](
 3. **Contribution**: Users are encouraged to contribute their own insights, configurations, or solutions to enrich the CGW knowledge base.
 4. **Feedback**: Share your experiences and suggestions to improve CGW.
 
+### Maintainer merge checklist
+
+- Pull the latest `main` branch before editing documentation-heavy files such as `Knowledge/Instructions/official_gpt_resources_2025.md` to minimize duplicate table additions.
+- When updating official links, capture the exact help-center slug in your commit message or changelog entry so future contributors can verify the reference quickly.
+- If you notice upstream changes while resolving conflicts, document them in the changelog to keep the repository's history of official resource updates traceable.
+
 ## 2025 platform highlights for CGW users
 
 OpenAI has published a refreshed suite of help center and platform documentation that complements CGW's advice. Start with the updated [Official Custom GPT Documentation Index](Knowledge/Instructions/official_gpt_resources_2025.md) for quick links and context, then use the summaries below as a checklist when iterating on your builds:

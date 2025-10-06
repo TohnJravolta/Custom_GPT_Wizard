@@ -12,7 +12,7 @@
 - Documentation index now includes Workspace governance resources and an "emerging docs" watchlist to keep future updates on the radar.
 
 ### Fixed
-- Resolved merge conflicts in the README, changelog entry, and official documentation index so the 2025 updates coexist cleanly with prior repository history.
+- Resolved merge conflicts in the README, changelog entry, and official documentation index so the 2025 updates coexist cleanly with prior repository history, and normalized the doc index structure to prevent repeat add/add collisions when rebasing against `main`.
 
 
 ## Version 0.0.42 December 14, 2023
