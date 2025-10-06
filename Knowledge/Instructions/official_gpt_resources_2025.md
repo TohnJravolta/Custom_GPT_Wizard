@@ -14,15 +14,16 @@ This index consolidates the most up-to-date official help center and platform do
 | Publishing workflow | [Publish or share a GPT](https://help.openai.com/en/articles/8820616-publish-or-share-a-gpt) | Step-by-step instructions for sharing via direct link, publishing to the store, and updating version notes. | Sync this with CGW's slash commands (/MAKE, /BUILD) to outline next steps once a configuration is approved. |
 | GPT actions | [GPT actions quickstart](https://platform.openai.com/docs/guides/gpt-actions) | Provides the modern schema format, authentication models (API key, OAuth), testing inside the builder, and deployment safeguards. | When CGW suggests adding actions, crosslink to this quickstart so developers can wire up external tools confidently. |
 | Analytics | [GPT analytics dashboard](https://help.openai.com/en/articles/8940147-gpt-analytics-dashboard) | Describes engagement metrics (opens, conversations, saves), trending tabs, and filters for time ranges. | Use analytics data to inform CGW-led iteration cycles and highlight measurable outcomes to stakeholders. |
-| Workspace roles & compliance | Workspace roles and permissions *(see GPTs help center)* | Breaks down admin, builder, and analyst permissions, audit log availability, and how Workspace-wide publishing works. | Map CGW recommendations to the right approvers and keep governance artifacts aligned with Workspace controls. |
+| Workspace roles & compliance | [Workspace roles and permissions](https://help.openai.com/en/collections/9139824-gpts?search=roles) | Breaks down admin, builder, and analyst permissions, audit log availability, and how Workspace-wide publishing works. | Map CGW recommendations to the right approvers and keep governance artifacts aligned with Workspace controls. |
 | Policy compliance | [GPT policy and review guidelines](https://help.openai.com/en/articles/8859858-gpt-policy-and-review-guidelines) | Summarizes restricted content, intellectual property expectations, and enforcement steps reviewers take before a GPT appears in the store. | Reference this whenever CGW warns about sensitive content so builders can remediate issues before submission. |
 
 ## How to keep this index current
 
 1. Revisit the GPTs collection link at least once per release cycle—OpenAI adds new articles as capabilities expand (e.g., workspace analytics, fine-grained access controls).
 2. Compare article timestamps with CGW's change log; add new rows or update summaries when OpenAI revises the builder UI.
-3. If an article is deprecated, move it to an "Archive" subsection and note the replacement resource so historical instructions remain traceable.
-4. Encourage contributors to open issues or PRs whenever they notice help center updates during their own GPT building work.
+3. Capture the direct article slug (for example `https://help.openai.com/en/articles/1234567-example`) when adding or updating entries so future merges do not lose the exact reference if the help center search parameters change.
+4. If an article is deprecated, move it to an "Archive" subsection and note the replacement resource so historical instructions remain traceable.
+5. Encourage contributors to open issues or PRs whenever they notice help center updates during their own GPT building work.
 
 ## Emerging documentation to watch
 

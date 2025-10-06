@@ -6,8 +6,8 @@
 
 ## Overview
 **Learn more about CGW and what it can do in this video: https://youtu.be/OZNRW2Yki5g.**
-This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of ChatGPT using OpenAI's modern builder on [chatgpt.com](https://chatgpt.com/).
-CGW now includes the Enhanced GPT Builder Assistant (EGBA) mode, further empowering users with an interactive, step-by-step custom GPT creation process that mirrors the side-by-side preview interface introduced in 2024–2025.
+This repository hosts the knowledge base for the Custom GPT Wizard (CGW), a tool designed to assist users in creating and optimizing custom versions of ChatGPT using OpenAI's modern builder on [chatgpt.com](https://chatgpt.com/) (the successor to chat.openai.com).
+CGW now includes the Enhanced GPT Builder Assistant (EGBA) mode, further empowering users with an interactive, step-by-step custom GPT creation process that mirrors the side-by-side preview interface introduced in 2024–2025, including the analytics and Workspace-aware controls that shipped with the 2025 refresh.
 
 ## [Try CGW Here](https://chatgpt.com/g/g-DrpPDbvY6-custom-gpt-wizard)
 
@@ -22,6 +22,7 @@ Custom GPT Wizard (CGW) is a specialized custom ChatGPT model, developed to prov
 
 - **Empathetic Assistance**: CGW offers supportive and understanding guidance, ensuring that users of all expertise levels can successfully create their custom GPTs.
 - **Custom GPT Configuration**: Detailed assistance in configuring and optimizing custom GPTs for various purposes, including new builder capabilities such as Workspace roles, analytics, and iterative release notes.
+- **Source-of-truth linking**: Direct references to the [Official Custom GPT Documentation Index](Knowledge/Instructions/official_gpt_resources_2025.md) keep CGW's advice aligned with the latest help center updates.
 - **Enhanced GPT Builder Assistant (EGBA)**: A new interactive mode guiding users through each step of custom GPT creation, offering transparency and user control.
 - **Troubleshooting and Advice**: Practical tips and solutions for common issues encountered in the creation and usage of custom GPTs. Upload screenshots of your problems and configurations for context or explanations, and leverage the GPT analytics dashboard to validate improvements over time.
 - **Privacy and Safety Focus**: Emphasizes the importance of privacy controls and safe, ethical AI usage.
@@ -76,8 +77,9 @@ For more detailed comparisons or assistance, visit [CGW's Knowledge Repository](
 ## How to Use This Repository
 
 1. **Exploring the Knowledge Base**: Browse through the different directories to find guidelines, troubleshooting advice, and examples of custom GPT configurations.
-2. **Contribution**: Users are encouraged to contribute their own insights, configurations, or solutions to enrich the CGW knowledge base.
-3. **Feedback**: Share your experiences and suggestions to improve CGW.
+2. **Check official references**: Use the documentation index above whenever you see a link to OpenAI resources—each entry includes context and the latest slug to prevent drift during future merges.
+3. **Contribution**: Users are encouraged to contribute their own insights, configurations, or solutions to enrich the CGW knowledge base.
+4. **Feedback**: Share your experiences and suggestions to improve CGW.
 
 ## 2025 platform highlights for CGW users
 

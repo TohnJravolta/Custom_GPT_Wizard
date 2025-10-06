@@ -11,6 +11,9 @@
 - README highlights 2025 platform considerations (analytics, Workspace governance, revenue share) and links to the chatgpt.com domain.
 - Documentation index now includes Workspace governance resources and an "emerging docs" watchlist to keep future updates on the radar.
 
+### Fixed
+- Resolved merge conflicts in the README, changelog entry, and official documentation index so the 2025 updates coexist cleanly with prior repository history.
+
 
 ## Version 0.0.42 December 14, 2023
 
