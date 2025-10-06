@@ -79,6 +79,19 @@ For more detailed comparisons or assistance, visit [CGW's Knowledge Repository](
 2. **Contribution**: Users are encouraged to contribute their own insights, configurations, or solutions to enrich the CGW knowledge base.
 3. **Feedback**: Share your experiences and suggestions to improve CGW.
 
+## Official OpenAI Custom GPT resources (2025 refresh)
+
+OpenAI has published a refreshed suite of help center and platform documentation that complements CGW's advice. Start with the new [Official Custom GPT Documentation Index](Knowledge/Instructions/official_gpt_resources_2025.md) for quick links and context. Highlights include:
+
+- **Create a GPT** – an authoritative walkthrough of the latest builder UI, covering instructions, Knowledge files, conversation starters, and capability toggles for browsing, DALL·E 3, and code interpreter.
+- **Manage GPTs** – guidance for renaming, duplicating, archiving, and controlling share settings so drafts stay private until you're ready to publish.
+- **Custom GPT privacy controls** – details about conversation retention, the "Allow my GPT to be used for model improvement" toggle, and how uploaded Knowledge files are handled.
+- **GPT Store overview & Builder profile** – publication requirements, quality review criteria, builder profile fields, and how discovery and revenue share now operate.
+- **GPT actions quickstart** – updated schema and authentication patterns for connecting external tools via Actions.
+- **GPT analytics dashboard** – metrics definitions that make it easier to iterate on your builds using real engagement data.
+
+Referencing these official docs alongside CGW ensures the wizard's recommendations stay aligned with the most recent changes on chatgpt.com, including GPT Store publishing rules and builder profile verification steps.
+
 ## Contributing
 
 We welcome contributions from the community. Please follow these steps to contribute:

@@ -78,21 +78,40 @@ Future developments for CGW include more advanced customization options, broader
 ---
 
 ## Quick Start Guide
-[To be expanded]
+1. **Review the official builder flow** – Skim the [Create a GPT](../Knowledge/Instructions/official_gpt_resources_2025.md) summary so you know where instructions, Knowledge files, and capability toggles now live in the ChatGPT interface before you open CGW.
+2. **Launch CGW and trigger `/MAKE`** – Let EGBA capture your goals, user personas, and compliance needs. Keep the Manage GPTs article from the documentation index handy in case you need to duplicate or archive drafts mid-process.
+3. **Upload supporting Knowledge** – Follow OpenAI’s privacy guidance (outlined in the documentation index) when attaching PDFs, spreadsheets, or FAQs so sensitive data remains opt-in and well scoped.
+4. **Decide on capabilities** – Use the updated builder UI to toggle browsing, DALL·E, and code interpreter features exactly as CGW’s plan recommends.
+5. **Wire up Actions (optional)** – When CGW suggests external integrations, reference the GPT Actions quickstart to author and validate the OpenAPI schema.
+6. **Share safely** – Use the publish/share article highlighted in the documentation index to decide whether to keep the GPT private, share a preview link, or submit to the GPT Store once you have marketing assets ready.
 
 [Back to Top](#table-of-contents)
 
 ---
 
 ## Detailed How-To
-[To be expanded]
+### Building with CGW and the official docs side-by-side
+
+1. **Define objectives with CGW** – Start a `/BUILD` session and capture success metrics that you will later monitor in the GPT analytics dashboard.
+2. **Draft instructions** – Translate CGW’s structured plan into the builder’s Instructions pane, ensuring tone, guardrails, and escalation paths match policy requirements.
+3. **Attach Knowledge responsibly** – Label each file clearly, cite owners, and align retention decisions with the privacy controls article.
+4. **Configure Actions** – Use the GPT Actions quickstart to declare authentication, endpoints, and user-facing descriptions; test within the builder until CGW confirms success cases.
+5. **Set up the builder profile** – Prepare your display name, handle, tagline, and external links before submitting to the GPT Store to avoid review delays.
+6. **Run dry runs** – Share the GPT privately, collect feedback, and archive unused iterations using the Manage GPTs guidance.
+7. **Publish and monitor** – Once approved, publish to the store, write clear release notes, and monitor engagement via GPT analytics for next-round improvements.
 
 [Back to Top](#table-of-contents)
 
 ---
 
 ## Troubleshooting
-[To be expanded]
+| Issue | What to check | Helpful official reference |
+| --- | --- | --- |
+| Builder UI looks different from CGW screenshots | Confirm whether OpenAI recently updated the interface and reread the Create a GPT article for layout changes. | [Create a GPT](../Knowledge/Instructions/official_gpt_resources_2025.md) |
+| Knowledge files are not loading | Verify file formats and sizes against OpenAI’s limits; reupload after trimming sensitive data. | Custom GPT privacy controls (see documentation index) |
+| Actions failing authentication | Double-check the schema and OAuth/API key configuration against the GPT Actions quickstart, then retest in the builder. | GPT actions quickstart |
+| GPT rejected from the store | Review the policy and review guidelines plus builder profile requirements before resubmitting. | GPT Store overview, Builder profile, GPT policy and review guidelines |
+| Analytics missing data | Allow up to 24 hours for metrics to populate and confirm the GPT is published or shared broadly enough to collect engagement. | GPT analytics dashboard |
 
 [Back to Top](#table-of-contents)
 
@@ -120,7 +139,9 @@ Future developments for CGW include more advanced customization options, broader
 ---
 
 ## References
-[To be expanded]
+- [Official Custom GPT Documentation Index (2025 refresh)](../Knowledge/Instructions/official_gpt_resources_2025.md)
+- OpenAI GPTs help center collection (see index above for direct article links)
+- CGW Enhanced GPT Builder Assistant (EGBA) instructions within this repository
 
 [Back to Top](#table-of-contents)
 
